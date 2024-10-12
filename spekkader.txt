@@ -1,5 +1,7 @@
-1.name tag
-2.slayer
-3.Buakng
-4.tumbler
+1.bantal
+2.name tag
+3.bukating
+4.slayer
+5.tumbler
+6.topi
 
